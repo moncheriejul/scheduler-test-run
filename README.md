@@ -1,5 +1,5 @@
-# Can't upload vendor folder
-# CodeIgniter 4 Application Starter
+ 
+# CodeIgniter 4 Application Starter featuring Can't upload vendor folder
 
 ## What is CodeIgniter?
 
